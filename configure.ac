@@ -1,5 +1,5 @@
 AC_PREREQ([2.69])
-AC_INIT([tumblr-dl], [0.1], [https://github.com/dx7/tumblr-dl/issues])
+AC_INIT([tumblr-dl], [0.1], [https://github.com/zoelmd/tumblr-dl/issues])
 AC_CONFIG_SRCDIR([src/tumblr-dl.c])
 
 ## Checks for programs.
